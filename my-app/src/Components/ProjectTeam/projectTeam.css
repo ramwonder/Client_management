@@ -1,0 +1,87 @@
+.deg1{
+    margin-top: -850px;
+}
+.card3{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    left: 400px;
+}
+.card4{
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: absolute;
+    left: 800px;
+ 
+}
+.aaa{
+    margin-left: 815px;
+    margin-top: 0px;
+    width: 720px;
+}
+#neww{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+
+}
+#te{
+margin-left: 100px;
+
+}
+.eTable121{
+
+    width: 1250px;
+    margin-top: 10px;
+    margin-left: 120px;
+   
+    
+
+ }
+ .eTable122{
+
+    width: 1250px;
+    margin-top: 10px;
+    margin-left: 135px;
+   
+    
+
+ }
+ .buttupdate{
+    margin-left: 120px;
+    margin-top: 100px;
+  
+ }
+ #Butt{
+    background-color: white;
+    color: red;
+    
+ }
+ .cc{
+    background-color: aliceblue;
+ }
+ .Button{
+    background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+    border: #ff0844;
+  
+  }
+  #ssure{
+    height: 1000px;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+   .cardsss1{
+    background-color: white;
+    border-color: #ff0844;
+    border-style: inset;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    top: -120px;
+    left: 270px;
+   }
+#d{
+    margin-top: -400px;
+    
+   
+}

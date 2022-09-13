@@ -1,0 +1,56 @@
+.CircularProgressbar-path {
+    stroke: red;
+  }
+  .CircularProgressbar-trail {
+    stroke: gray;
+  }
+  .CircularProgressbar-text {
+    fill: yellow;
+  }
+  .CircularProgressbar-background {
+    fill: green;
+    
+  }
+  .Table1{
+    margin-top: auto;
+    width: 750px;
+}
+.card1222{
+    width:500px;
+    margin-left: 500px;
+    margin-top: -40px;
+}
+.butt{
+    background-image: linear-gradient(to top, #ff0844 20%, #ffb199 100%);
+    border: #ff0844;
+    margin-top: 50px;
+}
+.eTable{
+    margin-top: -40px;
+}
+.butt13{
+    background-color: white;
+    margin-top: 200px;
+    margin-left: 250px;
+}
+.butt113{
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 220px;
+}
+.butt134{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.card113
+{
+    width:500px;
+    margin-top: -50px;
+
+}
+.butt144
+{
+ 
+    margin-top: 200px;
+    margin-left: 220px;
+}
